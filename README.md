@@ -1,2 +1,3 @@
 # learning-cpp
-learning c++
+This project is a workspace for learning c++ features.
+
